@@ -12,3 +12,4 @@ All guides can be found at [ahadns.com/setup-guides](https://ahadns.com/setup-gu
 - [iOS](Apple/iOS.md)
 - [Android](Android/Android.md)
 - [MacOS](Apple/MacOS.md)
+- [Microsoft Edge](MSEdge/Edge.md)
