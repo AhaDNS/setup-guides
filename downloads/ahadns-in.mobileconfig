@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadDisplayName</key>
+    <string>AhaDNS India</string>
+    <key>PayloadDescription</key>
+    <string>This profile enables AhaDNS on all networks using the new native Encrypted DNS feature.</string>
+    <key>PayloadIdentifier</key>
+    <string>e23fb556-3dcc-48c7-8cd5-1bf3c88b93c8.ahadns.com.profile</string>
+    <key>PayloadScope</key>
+    <string>User</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>4de15ced-1410-4ee1-a458-fdad87532d70</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>DNSSettings</key>
+        <dict>
+          <key>DNSProtocol</key>
+          <string>HTTPS</string>
+          <key>ServerAddresses</key>
+          <array>
+            <string>45.79.120.233</string>
+            <string>2400:8904:e001:43::43</string>
+          </array>
+          <key>ServerURL</key>
+          <string>https://doh.in.ahadns.net/dns-query</string>
+        </dict>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadIdentifier</key>
+        <string>e23fb556-3dcc-48c7-8cd5-1bf3c88b93c8.ahadns.com.profile.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>4de15ced-1410-4ee1-a458-fdad87532d70</string>
+        <key>PayloadDisplayName</key>
+        <string>AhaDNS India</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+  </dict>
+</plist>
