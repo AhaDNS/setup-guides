@@ -1,6 +1,6 @@
 # AhaDNS iOS setup guide
 
-## iOS 14 or newer
+## iOS 14 and newer
 
 We've created pre-configured mobileconfig files that will enable encrypted DNS-over-HTTPS on your iOS device on both Wi-Fi and cellular networks.  
 Download links can be found below:

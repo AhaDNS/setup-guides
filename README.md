@@ -10,3 +10,4 @@ All guides can be found at [ahadns.com/setup-guides](https://ahadns.com/setup-gu
 ## Existing guides
 
 - [iOS](iOS/iOS.md)
+- [Android](Android/Android.md)
