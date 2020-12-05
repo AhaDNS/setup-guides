@@ -5,8 +5,8 @@
 We've created pre-configured mobileconfig files that will enable encrypted DNS-over-HTTPS on your iOS device on both Wi-Fi and cellular networks.  
 Download links can be found below:
 
-- [Netherlands DNS mobileconfig]()
-- [India DNS mobileconfig]()
+- [Netherlands DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/downloads/ahadns-nl.mobileconfig)
+- [India DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/downloads/ahadns-in.mobileconfig)
 
 ### Mobileconfig instructions
 
