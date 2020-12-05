@@ -9,4 +9,4 @@ All guides can be found at [ahadns.com/setup-guides](https://ahadns.com/setup-gu
 
 ## Existing guides
 
-- [iOS](mobile/iOS.md)
+- [iOS](iOS/iOS.md)
