@@ -34,9 +34,9 @@
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
         <key>PayloadIdentifier</key>
-        <string>0faf4d4a-6dbf-477c-bc30-b20d03772f02.ahadns.com.profile.dnsSettings.managed</string>
+        <string>1f577b25-4915-431b-b544-39743451000a.ahadns.com.profile.dnsSettings.managed</string>
         <key>PayloadUUID</key>
-        <string>1b489146-8f14-4c60-9f4d-58d9fc39699b</string>
+        <string>a668fe7b-9a59-4b18-aa17-134749458f48</string>
         <key>PayloadDisplayName</key>
         <string>AhaDNS Netherlands</string>
         <key>PayloadVersion</key>
