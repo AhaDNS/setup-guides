@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadDisplayName</key>
+    <string>AhaDNS Los Angeles</string>
+    <key>PayloadDescription</key>
+    <string>This profile enables AhaDNS on all networks using the new native Encrypted DNS feature.</string>
+    <key>PayloadIdentifier</key>
+    <string>37e781ab-3058-45a2-b7cf-af1e84822ac6.ahadns.com.profile</string>
+    <key>PayloadScope</key>
+    <string>User</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>d10d3619-a3c2-4ae6-b82a-18a60479c7a7</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>DNSSettings</key>
+        <dict>
+          <key>DNSProtocol</key>
+          <string>HTTPS</string>
+          <key>ServerAddresses</key>
+          <array>
+            <string>45.67.219.208</string>
+            <string>2a04:bdc7:100:70::70</string>
+          </array>
+          <key>ServerURL</key>
+          <string>https://doh.la.ahadns.net/dns-query</string>
+        </dict>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadIdentifier</key>
+        <string>6aad5a5f-942c-44bf-a32f-f23d01c30391.ahadns.com.profile.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>a23394c8-2767-4dee-88d4-74275e40c139</string>
+        <key>PayloadDisplayName</key>
+        <string>AhaDNS Los Angeles</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+  </dict>
+</plist>
