@@ -1,0 +1,14 @@
+You can use AhaDNS on Windows by using a program called YogaDNS.
+
+1. Go to www.yogadns.com and download the stable/beta build as per your requirement and install it.
+2. Open the YogaDNS client and click on the box saying 'DNS Servers' right below the toolbar.
+3. Click on 'Add' on the right side once the DNS servers window opens.
+4. Type the name as 'AhaDNS' or any name you want so that you can identify it. You can leave the IP area empty.
+5. Select the protocol as DNS-over-HTTPS.
+6. Go to https://ahadns.com/dns-over-https/ and copy the HTTPS url for the data center closest to you (Eg - https://doh.in.ahadns.net/dns-query for the indian data center).
+7. Paste the copied URL on the YogaDNS DNS servers window in the 'URL' textbox. 
+8. Click on check once to see if the resolver is working correctly. If yes, there should be a green text beside it with your latency written.
+9. Click on OK to close the add server window, then click OK again to complete adding the DNS server list window.
+10. Go to 'Rules', it's the box right beside the 'DNS Servers' box below the toolbar.
+11. You can see 4 columns. In the far right column, click default, and it will open a drop-down menu. Select 'AhaDNS' or the name you provided when adding the server.
+12. Press OK to succesfully change the rule to AhaDNS.
