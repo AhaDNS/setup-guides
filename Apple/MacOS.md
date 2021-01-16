@@ -8,6 +8,7 @@ Download links can be found below:
 - [Netherlands DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-nl.mobileconfig)
 - [India DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-in.mobileconfig)
 - [Los Angeles DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-la.mobileconfig)
+- [New York DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-ny.mobileconfig)
 
 ### Mobileconfig instructions
 
