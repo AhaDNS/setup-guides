@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadDisplayName</key>
+    <string>AhaDNS Australia</string>
+    <key>PayloadDescription</key>
+    <string>This profile enables AhaDNS on all networks using the new native Encrypted DNS feature.</string>
+    <key>PayloadIdentifier</key>
+    <string>076b05e7-e0c5-4132-b120-3c1187b4bcdd.ahadns.com.profile</string>
+    <key>PayloadScope</key>
+    <string>User</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>234797f2-4e33-4751-b4b7-3939da080c2b</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>DNSSettings</key>
+        <dict>
+          <key>DNSProtocol</key>
+          <string>HTTPS</string>
+          <key>ServerAddresses</key>
+          <array>
+            <string>103.73.64.132</string>
+            <string>2406:ef80:100:11::11</string>
+          </array>
+          <key>ServerURL</key>
+          <string>https://doh.au.ahadns.net/dns-query</string>
+        </dict>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadIdentifier</key>
+        <string>dee8ce5f-a41d-4841-8825-7536194a7aa9.ahadns.com.profile.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>cb2fc930-8585-44b5-89aa-fc4e7a0cb758</string>
+        <key>PayloadDisplayName</key>
+        <string>AhaDNS Australia</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+  </dict>
+</plist>
