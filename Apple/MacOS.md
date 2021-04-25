@@ -9,12 +9,6 @@ Download links can be found below:
 - [India DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-in.mobileconfig)
 - [Los Angeles DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-la.mobileconfig)
 - [New York DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-ny.mobileconfig)
-- [Poland DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-pl.mobileconfig)
-- [Italy DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-it.mobileconfig)
-- [Spain DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-es.mobileconfig)
-- [Norway DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-no.mobileconfig)
-- [Chicago DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-chi.mobileconfig)
-- [Australia DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-au.mobileconfig)
 
 ### Mobileconfig instructions
 
